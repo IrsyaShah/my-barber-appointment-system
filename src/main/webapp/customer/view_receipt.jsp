@@ -89,7 +89,7 @@ DateTimeFormatter timeFmt = DateTimeFormatter.ofPattern("hh:mm a", Locale.ENGLIS
 									<img src="../assets/images/logo/logo-icon.png"
 										class="img-60 me-3" />
 									<div>
-										<h4 class="f-w-600">Demo Barbershop</h4>
+										<h2 class="f-w-600">Demo Barbershop</h2>
 										<p style="text-transform: none;">
 											demobarbershop@hotmail.com<br> <span class="digits">01x-xxxxxxx</span>
 										</p>

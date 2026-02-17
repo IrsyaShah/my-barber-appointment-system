@@ -216,7 +216,7 @@ long serverMillis = serverNow.toInstant().toEpochMilli();
 								<li class="menu-box">
 									<ul>
 										<li class="sidebar-list"><a class="sidebar-link"
-											href="dashboard.html"><i data-feather="home"></i><span>Home</span></a></li>
+											href="<c:url value='/admin/AdminDashboardView' />"><i data-feather="home"></i><span>Home</span></a></li>
 										<li class="sidebar-list"><a
 											class="sidebar-link sidebar-title" href="javascript:void(0)"><i
 												data-feather="calendar"></i><span>Appointment</span></a>
