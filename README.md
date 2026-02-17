@@ -1,4 +1,4 @@
-# MyBarber Appointment Management System
+# MyBarber Appointment System
 
 ## 📌 Overview
 
