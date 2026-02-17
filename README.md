@@ -44,11 +44,11 @@ This structure ensures:
 
 ### Customer Module
 - User registration and secure login
-- Online appointment booking
+- Manage personal account information
+- Password management
+- Book appointments online
 - Preferred barber selection
-- Service selection
-- Date and time scheduling
-- Appointment status tracking
+- View and track appointment status
 
 ### Staff Module
 - Secure login authentication
@@ -80,28 +80,24 @@ This structure ensures:
 
 ## 🛠 Technologies Used
 
-- **Java**
-- **JSP**
-- **Servlet**
-- **JSTL**
-- **JDBC**
-- **JavaMail (javax.mail)**
-- **MySQL**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Apache Tomcat**
+**Backend**
+- Java
+- Servlet
+- JDBC
+- JavaMail (javax.mail)
 
----
+**Frontend**
+- JSP
+- JSTL
+- HTML
+- CSS
+- Bootstrap
 
-## 📊 Functional Modules
+**Database**
+- MySQL
 
-- Appointment Booking Management
-- Barber Shift Scheduling
-- Service Management
-- User Management
-- Revenue Tracking
-- Performance Monitoring Dashboard
+**Server**
+- Apache Tomcat
 
 ---
 
