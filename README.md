@@ -1,6 +1,6 @@
 # MyBarber Appointment System
 
-## 📌 Overview
+## Overview
 
 The Appointment Management System is a web-based application developed using **Java, JSP and MySQL**, following the **MVC (Model-View-Controller) architecture**.
 
@@ -117,7 +117,7 @@ This structure ensures:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash
