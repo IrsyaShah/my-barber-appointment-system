@@ -1,8 +1,8 @@
-# 💈 Barbershop Appointment Management System
+# MyBarber Appointment Management System
 
 ## 📌 Overview
 
-The Barbershop Appointment Management System is a web-based application developed using **Java, JSP, Servlet, and MySQL**, following the **MVC (Model-View-Controller) architecture**.
+The Barbershop Appointment Management System is a web-based application developed using **Java, JSP, and MySQL**, following the **MVC (Model-View-Controller) architecture**.
 
 This system was designed to replace manual appointment booking methods with a centralized and database-driven platform. It improves operational efficiency, reduces scheduling conflicts, and enhances the customer booking experience.
 
