@@ -145,16 +145,16 @@ For testing purposes, the system includes pre-inserted demo accounts.
 You may use the following credentials:
 
 ### Administrator (Default Account)
-- Username: admin
-- Password: admin123
+- Username : admin
+- Password : admin123
 
 ### Staff
-- Email: staff@hotmail.com
-- Password: staff123
+- Email : staff@hotmail.com
+- Password : staff123
 
 ### Customer
-- Email: customer@hotmail.com
-- Password: customer123
+- Email : customer@hotmail.com
+- Password : customer123
 
 ---
 
