@@ -104,16 +104,16 @@ This structure ensures:
 ## 📷 System Screenshots
 
 ### Landing Page
-_Add screenshot here_
+![Landing Page](screenshots/landing-page.png)
 
 ### Appointment Form
-_Add screenshot here_
+![Appointment Form](screenshots/appointment-form.png)
 
 ### Staff Dashboard
-_Add screenshot here_
+![Staff Dashboard](screenshots/staff-dashboard.png)
 
 ### Admin Dashboard
-_Add screenshot here_
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
