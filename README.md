@@ -150,11 +150,11 @@ You may use the following credentials:
 
 ### Staff
 - Email : staff@hotmail.com
-- Password : staff123
+- Password : 630502
 
 ### Customer
 - Email : customer@hotmail.com
-- Password : customer123
+- Password : customer@123
 
 ---
 
