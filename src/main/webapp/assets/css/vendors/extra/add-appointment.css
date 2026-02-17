@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+.date-input {
+	position: relative;
+}
+
+.date-input input {
+	padding-right: 40px;
+}
+
+.date-input .fa-calendar-days {
+	position: absolute;
+	right: 12px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #6c757d;
+	pointer-events: none;
+	transition: color 0.2s ease;
+}
+
+.date-input .valid-feedback, .date-input .invalid-feedback {
+	position: absolute;
+	bottom: -20px;
+	left: 0;
+	font-size: 0.875em;
+}
+
+.was-validated .form-control:valid ~ .fa-calendar-days {
+	right: 40px;
+}
+
+.was-validated .form-control:invalid ~ .fa-calendar-days {
+	right: 40px;
+}
+
+#serviceGroup.is-invalid .service-item label {
+	color: #dc3545;
+}
+
+#serviceGroup.is-valid .service-item label {
+	color: #198754;
+}
+
+.invalid-feedback {
+	color: #DC3545 !important;
+}

@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.was-validated .form-control:valid ~ .show-hide {
+	right: 30px;
+	top: 23px;
+}
+
+.was-validated .form-control:invalid ~ .show-hide {
+	right: 30px;
+	top: 23px;
+}

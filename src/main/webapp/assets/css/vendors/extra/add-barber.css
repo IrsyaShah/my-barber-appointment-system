@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.modal-center-screen {
+	position: fixed !important;
+	top: 50% !important;
+	left: 50% !important;
+	transform: translate(-50%, -50%) !important;
+	margin: 0 !important;
+}
+
+.modal {
+	padding: 0 !important;
+}
+
+.modal-center-screen .modal-content {
+	max-height: 80vh;
+	width: 90vh;
+}

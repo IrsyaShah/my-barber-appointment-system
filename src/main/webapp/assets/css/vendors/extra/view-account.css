@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+.position-relative {
+	display: inline-block;
+}
+
+.edit-icon {
+	position: absolute;
+	right: -16px;
+	bottom: 60px;
+	cursor: pointer;
+}
+
+.page-header {
+	width: 100% !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.page-header .header-wrapper {
+	width: 100% !important;
+	max-width: 100% !important;
+	margin: 0 !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+.header-wrapper.row {
+	margin: 0 !important;
+}
+
+.nav-right, .header-logo-wrapper, .search-full {
+	width: auto !important;
+}
+
+.custom-nav li {
+	margin-left: 20px;
+	list-style: none;
+}
+
+.custom-nav a {
+	text-decoration: none;
+	font-weight: 500;
+}

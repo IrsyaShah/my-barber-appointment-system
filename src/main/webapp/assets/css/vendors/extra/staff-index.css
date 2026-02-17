@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+.datepicker--button[data-action="today"] {
+	position: absolute;
+	top: 18px;
+	right: 20px;
+	width: 70px;
+	height: auto;
+	color: #fbd148 !important;
+	font-weight: 700;
+	font-size: 13px;
+	background: none !important;
+	z-index: 10;
+	text-transform: capitalize;
+	background-color: #fbd148 !important;
+	color: white !important;
+	border: 1px solid #fbd148 !important;
+	border-radius: 5px !important;
+}
+
+.datepicker--button[data-action="today"]:hover {
+	background-color: #634a3b !important;
+	border-color: #634a3b !important;
+	color: #ffffff !important;
+	transition: all 0.2s ease;
+}
+
+.datepicker--buttons {
+	border-top: none !important;
+	padding: 0 !important;
+}
+
+.datepicker--nav-title {
+	padding-right: 10px !important;
+	font-size: 14px !important;
+}
+
+.datepicker--nav {
+	padding: 10px 15px !important;
+}
+
+.custom-calendar-container {
+	width: 100%;
+	display: block;
+}
+
+.datepicker {
+	width: 100% !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.datepicker--content {
+	padding: 0 !important;
+}
+
+.datepicker--cells-days {
+	display: grid !important;
+	grid-template-columns: repeat(7, 1fr) !important;
+	width: 100% !important;
+}
+
+.datepicker--cell-day {
+	width: auto !important;
+	height: 45px !important;
+}
+
+.datepicker--nav {
+	border-bottom: none !important;
+	padding: 0 10px !important;
+	justify-content: center !important;
+}
+
+.datepicker--nav-title {
+	font-weight: 700 !important;
+	text-transform: uppercase;
+}
+
+.datepicker--cell.-has-confirmed-::after, .datepicker--cell.-has-pending-::after,
+	.datepicker--cell.-has-completed-::after {
+	content: '';
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 5px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.datepicker--cell.-has-confirmed-::after {
+	background-color: #55abd6 !important;
+}
+
+.datepicker--cell.-has-pending-::after {
+	background-color: #e6af3e !important;
+}
+
+.datepicker--cell.-has-completed-::after {
+	background-color: #a0bc97 !important;
+}
+
+.calendar-legend {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin-top: 20px;
+	padding-top: 15px;
+	border-top: 1px solid #eee;
+}
+
+.legend-dot {
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.dot-confirmed {
+	background-color: #55abd6 !important;
+}
+
+.dot-pending {
+	background-color: #e6af3e !important;
+}
+
+.dot-completed {
+	background-color: #a0bc97 !important;
+}
+
+.legend-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	font-weight: 500;
+	color: #555;
+}
