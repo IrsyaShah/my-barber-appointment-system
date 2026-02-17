@@ -142,15 +142,6 @@ _Add screenshot here_
 
 ---
 
-## 🔐 Security Considerations
-
-- Role-based authentication and authorization
-- Input validation for booking forms
-- Database interaction through structured queries
-- Separation of business logic using MVC
-
----
-
 ## License
 
 This project is licensed under the **MIT License**.
