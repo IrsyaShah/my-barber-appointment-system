@@ -129,12 +129,32 @@ This structure ensures:
 3. Configure **Apache Tomcat Server**
 
 4. Setup MySQL database:
-   - Create a new database
-   - Import provided SQL file
+   - Create a new database (`demo_barbershop`)
+   - Import the provided SQL file located in the `/database` folder
 
 5. Update database connection configuration in Java file
 
 6. Run the project on Tomcat server
+
+---
+
+## 🔑 Demo Accounts
+
+For testing purposes, the system includes pre-inserted demo accounts.
+
+You may use the following credentials:
+
+### Administrator (Default Account)
+- Username: admin
+- Password: admin123
+
+### Staff
+- Email: staff@hotmail.com
+- Password: staff123
+
+### Customer
+- Email: customer@hotmail.com
+- Password: customer123
 
 ---
 
