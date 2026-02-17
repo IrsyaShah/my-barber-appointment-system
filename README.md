@@ -42,7 +42,7 @@ This structure ensures:
 
 ## 🚀 Core Features
 
-### 👤 Customer Module
+### Customer Module
 - User registration and secure login
 - Online appointment booking
 - Preferred barber selection
@@ -50,14 +50,14 @@ This structure ensures:
 - Date and time scheduling
 - Appointment status tracking
 
-### ✂️ Staff Module
+### Staff Module
 - Secure login authentication
 - View assigned appointments
 - View daily schedule
 - View revenue and performance
 - Update appointment status
 
-### 🛠 Administrator Module
+### Administrator Module
 - Secure administrator login
 - Manage staff accounts and shifts
 - Manage services and appointments
@@ -107,16 +107,16 @@ This structure ensures:
 
 ## 📷 System Screenshots
 
-### 🖥 Landing Page
+### Landing Page
 _Add screenshot here_
 
-### 📅 Appointment Form
+### Appointment Form
 _Add screenshot here_
 
-### 👨‍💼 Staff Dashboard
+### Staff Dashboard
 _Add screenshot here_
 
-### 📈 Admin Dashboard
+### Admin Dashboard
 _Add screenshot here_
 
 ---
@@ -151,13 +151,13 @@ _Add screenshot here_
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Irsya Shah**  
 Bachelor of Information Technology (Hons.)  
