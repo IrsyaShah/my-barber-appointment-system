@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-The Appointment Management System is a web-based application developed using **Java, JSP, and MySQL**, following the **MVC (Model-View-Controller) architecture**.
+The Appointment Management System is a web-based application developed using **Java, JSP and MySQL**, following the **MVC (Model-View-Controller) architecture**.
 
-This system was designed to replace manual appointment booking methods with a centralized and database-driven platform. It improves operational efficiency, reduces scheduling conflicts, and enhances the customer booking experience.
+This system was designed to replace manual appointment booking methods with a centralized and database-driven platform. It improves operational efficiency, reduces scheduling conflicts and enhances the customer booking experience.
 
 The system supports three primary roles:
 - **Administrator**
@@ -25,7 +25,7 @@ The system supports three primary roles:
 
 ## 🏗 System Architecture
 
-The system follows the **MVC architectural pattern**:
+The system follows the **MVC architectura pattern**:
 
 - **Model** → Java classes handling business logic and database operations  
 - **View** → JSP pages for user interface rendering  
@@ -51,16 +51,18 @@ This structure ensures:
 - Appointment status tracking
 
 ### ✂️ Staff Module
+- Secure login authentication
 - View assigned appointments
-- Manage daily schedule
+- View daily schedule
+- View revenue and performance
 - Update appointment status
 
 ### 🛠 Administrator Module
-- Manage staff accounts
-- Manage services
-- Monitor monthly appointments
-- Track revenue and performance
-- View booking analytics
+- Secure administrator login
+- Manage staff accounts and shifts
+- Manage services and appointments
+- Monitor monthly bookings
+- Track revenue and booking analytics
 
 ---
 
@@ -69,7 +71,7 @@ This structure ensures:
 | Feature | Description | Business Value |
 |----------|--------------|----------------|
 | Preferred Barber Selection | Customers can choose their desired barber | Increases customer satisfaction |
-| Role-Based Access Control | Separate access for Admin, Staff, and Customer | Improved security |
+| Role-Based Access Control | Separate access for Admin, Staff and Customer | Improved security |
 | Real-Time Schedule Validation | Prevents overlapping appointments | Reduces operational errors |
 | Dashboard Analytics | Displays bookings and revenue insights | Supports decision-making |
 | MVC Architecture | Clean separation of logic and presentation | Easier maintenance and scalability |
@@ -81,10 +83,13 @@ This structure ensures:
 - **Java**
 - **JSP**
 - **Servlet**
+- **JSTL**
 - **JDBC**
+- **JavaMail (javax.mail)**
 - **MySQL**
 - **HTML**
 - **CSS**
+- **Bootstrap**
 - **Apache Tomcat**
 
 ---
@@ -156,4 +161,4 @@ This project is licensed under the **MIT License**.
 
 **Irsya Shah**  
 Bachelor of Information Technology (Hons.)  
-Full Stack / Backend-Oriented Developer
+Full Stack / Backend-Specialist Developer
