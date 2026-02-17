@@ -13,7 +13,7 @@ The system supports three primary roles:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Digitize manual appointment booking processes
 - Prevent double booking and scheduling conflicts
@@ -23,7 +23,7 @@ The system supports three primary roles:
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 The system follows the **MVC architectura pattern**:
 
@@ -40,7 +40,7 @@ This structure ensures:
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 ### Customer Module
 - User registration and secure login
@@ -66,7 +66,7 @@ This structure ensures:
 
 ---
 
-## ⭐ Key System Highlights
+## Key System Highlights
 
 | Feature | Description | Business Value |
 |----------|--------------|----------------|
@@ -78,7 +78,7 @@ This structure ensures:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 **Backend**
 - Java
@@ -101,7 +101,7 @@ This structure ensures:
 
 ---
 
-## 📷 System Screenshots
+## System Screenshots
 
 ### Landing Page
 ![Landing Page](screenshots/landing-page.png)
@@ -138,7 +138,7 @@ This structure ensures:
 
 ---
 
-## 🔑 Demo Accounts
+## Demo Accounts
 
 For testing purposes, the system includes pre-inserted demo accounts.
 
