@@ -6,10 +6,19 @@ The Appointment Management System is a web-based application developed using **J
 
 This system was designed to replace manual appointment booking methods with a centralized and database-driven platform. It improves operational efficiency, reduces scheduling conflicts and enhances the customer booking experience.
 
-The system supports three primary roles:
+The system supports three primary roles :
 - **Administrator**
 - **Staff (Barber)**
 - **Customer**
+
+---
+
+## Demo Video
+
+Watch the system demo here:
+[https://www.youtube.com/watch?v=vo1JRzXAtPc]
+
+This demo showcases the full system workflow including customer booking, staff schedule management and administrator dashboard features.
 
 ---
 
@@ -32,7 +41,7 @@ The system follows the **MVC architectura pattern**:
 - **Controller** → Servlets managing request handling and workflow  
 - **Database** → MySQL for structured data storage  
 
-This structure ensures:
+This structure ensures :
 - Better code organization
 - Scalability
 - Maintainability
@@ -119,7 +128,7 @@ This structure ensures:
 
 ## Installation & Setup
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone https://github.com/IrsyaShah/my-barber-appointment-system.git
    ```
@@ -128,7 +137,7 @@ This structure ensures:
 
 3. Configure **Apache Tomcat Server**
 
-4. Setup MySQL database:
+4. Setup MySQL database :
    - Create a new database (`demo_barbershop`)
    - Import the provided SQL file located in the `/database` folder
 
@@ -138,11 +147,11 @@ This structure ensures:
 
 ---
 
-## Demo Accounts
+## Accounts
 
 For testing purposes, the system includes pre-inserted demo accounts.
 
-You may use the following credentials:
+You may use the following credentials :
 
 ### Administrator (Default Account)
 - Username : admin
