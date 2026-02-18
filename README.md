@@ -16,7 +16,7 @@ The system supports three primary roles :
 ## Demo Video
 
 Watch the system demo here :
-[https://www.youtube.com/watch?v=vo1JRzXAtPc]
+https://www.youtube.com/watch?v=vo1JRzXAtPc
 
 This demo showcases the full system workflow including customer booking, staff schedule management and administrator dashboard features.
 
