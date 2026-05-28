@@ -169,8 +169,6 @@ You may use the following credentials :
 
 ## Author
 
-**Irsya Shah** 
-
+**Irsya Shah**		
 Bachelor of Information Technology (Hons.) 
-
 Full Stack / Backend-Specialist Developer
