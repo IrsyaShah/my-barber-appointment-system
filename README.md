@@ -49,7 +49,7 @@ This structure ensures :
 
 ---
 
-## Core Features
+## Features
 
 ### Customer Module
 - User registration and secure login
