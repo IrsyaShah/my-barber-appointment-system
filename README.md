@@ -170,7 +170,6 @@ You may use the following credentials :
 ## 👨‍💻 Author
 
 This project was independently designed and developed by **Irsya Shah** as part of a full-stack web application development project.
-
 All system design, backend development, database integration and frontend implementation were completed independently.
 
 **Irsya Shah**
