@@ -174,6 +174,7 @@ All system design, backend development, database integration and frontend implem
 
 #### Irsya Shah
 Bachelor of Information Technology (Hons.) 
+
 Full Stack / Backend-Specialist Developer
 
 LinkedIn : [Irsya Shah](https://www.linkedin.com/in/irsyashah/)
