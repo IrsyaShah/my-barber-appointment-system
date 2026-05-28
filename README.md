@@ -167,9 +167,10 @@ You may use the following credentials :
 
 ---
 
-## License
+## Project Ownership
 
-This project is licensed under the **MIT License**.
+This project was independently designed and developed by **Irsya Shah** as part of a full-stack web application development project.
+All system design, backend development, database integration and frontend implementation were completed independently.
 
 ---
 
@@ -178,3 +179,5 @@ This project is licensed under the **MIT License**.
 **Irsya Shah**  
 Bachelor of Information Technology (Hons.)  
 Full Stack / Backend-Specialist Developer
+
+LinkedIn : [[Irsya Shah](https://www.linkedin.com/in/irsyashah/)]
